@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="CppSQLite3.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="23354" topLine="989" />
+	</File>
+	<File name="CppSQLite3.h" open="0" top="0" tabpos="0">
+		<Cursor position="6566" topLine="12" />
+	</File>
+	<File name="Timer.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="450" topLine="11" />
+	</File>
+	<File name="Timer.h" open="0" top="0" tabpos="2">
+		<Cursor position="197" topLine="0" />
+	</File>
+	<File name="functions.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="23080" topLine="860" />
+	</File>
+	<File name="functions.h" open="0" top="0" tabpos="2">
+		<Cursor position="1991" topLine="62" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="11263" topLine="352" />
+	</File>
+</CodeBlocks_layout_file>

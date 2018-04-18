@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1287922152 source:c:\progi\sborka_gcc\inifile.cpp
+	"IniFile.h"
+
+1285739250 c:\progi\sborka_gcc\inifile.h
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1300445628 source:c:\progi\sborka_gcc\timer.cpp
+	"Timer.h"
+
+1300342420 c:\progi\sborka_gcc\timer.h
+	"windows.h"
+
+1300451163 source:c:\progi\sborka_gcc\functions.cpp
+	"functions.h"
+	"timer.h"
+
+1300442318 c:\progi\sborka_gcc\functions.h
+	<windows.h>
+	<ctime>
+	<cmath>
+	<map>
+	<vector>
+	<algorithm>
+	<fstream>
+	"CppSQLite3.h"
+
+1300427643 c:\progi\sborka_gcc\cppsqlite3.h
+	"sqlite3.h"
+	<cstdio>
+	<cstring>
+	<string>
+
+1296495112 c:\progi\sborka_gcc\sqlite3.h
+	<stdarg.h>
+
+1300471796 source:c:\progi\sborka_gcc\main.cpp
+	"functions.h"
+
+1300427637 source:c:\progi\sborka_gcc\cppsqlite3.cpp
+	"CppSQLite3.h"
+	<cstdlib>
+
